@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54829578727",
+    "project_id": "hotel-system-ff934",
+    "storage_bucket": "hotel-system-ff934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54829578727:android:cacd978546a7b87f4f6542",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54829578727-mavlsmfftc5tkv9k2rv4fvi6rer708s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzArA77MO-fKzTt7sALWrAt_r7ILBTdhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54829578727-mavlsmfftc5tkv9k2rv4fvi6rer708s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
